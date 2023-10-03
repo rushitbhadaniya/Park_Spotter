@@ -1,6 +1,7 @@
 # Park_Spotter
-**Real-time Parking Slot Detection**: ParkSpotter employs computer vision algorithms to detect and monitor available parking slots in real-time. Using cameras strategically placed in parking areas, the system can provide up-to-the-minute information about vacant spots.
+**🚗 Real-time Parking Slot Detection**: ParkSpotter is designed to simplify the process of locating vacant parking spaces within vast parking areas. Using advanced computer vision, it detects and pinpoints open spots in real-time.
 
+**📊 Efficient Parking Space Management**: ParkSpotter doesn't just find empty parking slots; it also keeps track of the total number of available spots. This feature empowers parking lot owners and administrators to manage resources efficiently.
 ## Installation
 - <b>Requirements:</b> Python 3.3+
 
