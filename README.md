@@ -12,7 +12,7 @@
 - Image Dataset contain the sample images for the training.
 
 ## Run the project:
-Firstly,you can train the model or you can use the pre-trained model. After that run the Parking spot counter.py script
+You have the option to either train the model yourself or utilize a pre-trained model. Once that is done, proceed to execute the Parking spot counter.py script.
 
 ## Output window:
 Output video Screen will look like below image.
