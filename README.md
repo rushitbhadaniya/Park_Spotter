@@ -16,5 +16,5 @@ You have the option to either train the model yourself or utilize a pre-trained 
 
 ## Output window:
 The video screen's output will resemble the image below.
-![image](https://github.com/rushitbhadaniya/Park_Spotter/assets/32771921/9f669d82-14fe-4c61-b9af-bc8c5326aa0f)
+![image](https://github.com/rushitbhadaniya/Park_Spotter/assets/32771921/0bd12bdc-8d66-4bcd-8880-85e21693a527)
 
