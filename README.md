@@ -16,4 +16,4 @@ You have the option to either train the model yourself or utilize a pre-trained 
 
 ## Output window:
 The video screen's output will resemble the image below.
-<img src="https://github.com/rushitbhadaniya/Park_Spotter/blob/main/Output_Window.PNG">
+<img src="Output_window.jpg">
